@@ -1,0 +1,37 @@
+[H[2J[3J===== SYSTEM INFO =====
+
+User: karl-rollins Host: Rollins
+
+Date: Mon 06 Apr 2026 02:58:56 PM WAT
+
+  ---Uptime--- 
+
+up 5 hours, 54 minutes
+
+ ---- Memory (MB) ----- 
+
+Total: 31941 | Used: 4526 | Free: 27414
+[32mSufficient Memory[0m
+
+ --- Disk Usage --- 
+
+Total:      468 | Used:   28 | Free:  417 
+[32mSufficient Disk Space[0m
+
+ ---- Processes ---- 
+
+Running: 318 
+
+Top 5 by memory: 
+    PID    PPID CMD                         %MEM %CPU
+   6440    6234 /snap/whatsapp-linux-deskto  1.8  3.2
+   3434    2971 /usr/bin/gnome-shell         1.5  2.0
+   4995    4890 /snap/code/231/usr/share/co  1.2  7.4
+   4204    3434 /opt/google/chrome/chrome    1.2  0.4
+   4411    4224 /opt/google/chrome/chrome -  1.0  0.6 
+
+ ----- CPU Usage -----
+
+Current cpu usage: 3.1
+
+============================
