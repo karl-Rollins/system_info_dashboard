@@ -12,7 +12,7 @@ Some developers might not know how to check their device's infomations. The scri
 Allows user to get their system's information such as;
 - Current user
 - Current date
-- Host name
+- Hostname
 - Memory in MB(Total, free, used)
 - Disk space in GB(Total, free, used)
 - Current running processes
