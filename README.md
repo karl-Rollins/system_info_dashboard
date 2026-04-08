@@ -19,7 +19,7 @@ Allows user to get their system's information such as;
 - CPU usage
 
 ## 🛠 Tech Stack
-Bash        
+Bash       
 
 ## 📷 Screenshots
 ![alt text](<../../Pictures/Screenshots/Screenshot from 2026-04-08 15-54-59.png>)
@@ -32,7 +32,7 @@ All code is written in the syinfo.sh file.
 
 In the terminal;
 -run the code chmod +x syinfo.sh to give permission to the file to be executed
--then run the code ./sysinfo.sh. 
+-then run the code ./sysinfo.sh.
 -the dashboard will be displayed in the terminal
 
 🧠 Challenges Faced
