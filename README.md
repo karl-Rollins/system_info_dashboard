@@ -22,7 +22,8 @@ Allows user to get their system's information such as;
 Bash        
 
 ## 📷 Screenshots
-
+![alt text](<../../Pictures/Screenshots/Screenshot from 2026-04-08 15-54-59.png>)
+![alt text](<Screenshot from 2026-04-08 16-22-21.png>)
 
 ## ⚙ Installation & Setup
 
