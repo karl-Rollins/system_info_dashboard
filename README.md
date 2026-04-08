@@ -19,7 +19,10 @@ Allows user to get their system's information such as;
 - CPU usage
 
 ## 🛠 Tech Stack
-Bash                        
+Bash        
+
+## 📷 Screenshots
+
 
 ## ⚙ Installation & Setup
 
