@@ -67,5 +67,4 @@ echo "Current cpu usage: ${CPU_USAGE}"
 echo ""
 echo "============================"
 
-
 #./sysinfo.sh >> log.txt: Run cmd in terminal to mv output to the log file.
